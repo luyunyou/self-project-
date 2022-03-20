@@ -9,3 +9,8 @@ git log --stat      查看提交记录
 
 
 ### 撤销commit 操作    Git  reset HEAD^1   
+
+####分支相关
+
+git checkout -b  新分支名字     以当前分支为之处新建分支 
+Git  checkout main 切换分支名  
