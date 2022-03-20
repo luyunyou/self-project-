@@ -6,3 +6,6 @@ git log --stat      查看提交记录
 
 
 ######  放弃工作区的修改   git checkout filename
+
+
+### 撤销commit 操作    Git  reset HEAD^1   
