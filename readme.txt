@@ -14,3 +14,5 @@ git log --stat      查看提交记录
 
 git checkout -b  新分支名字     以当前分支为之处新建分支 
 Git  checkout main 切换分支名  
+
+####分支a中修改  
